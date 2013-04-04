@@ -1,12 +1,11 @@
 {
   "name": "awssum",
   "description": "AwsSum (Amazon Web Services API lib) repackaged for Meteor",
-  "homepage": "https://github.com/possibilities/meteor-awssum",
-  "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
+  "homepage": "https://github.com/avital/meteor-awssum",
+  "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es), tweaked by Avital Oliver <avital@meteor.com>",
   "version": "0.0.3",
-  "git": "https://github.com/possibilities/meteor-awssum.git",
+  "git": "https://github.com/avital/meteor-awssum.git",
   "packages": {
-    "underscore-string": "2.2.0rc.1",
-    "node-modules": "0.0.2"
+    "underscore-string": "2.2.0rc.1"
   }
 }
