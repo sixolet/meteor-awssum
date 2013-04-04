@@ -5,7 +5,5 @@
   "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es), tweaked by Avital Oliver <avital@meteor.com>",
   "version": "0.0.3",
   "git": "https://github.com/avital/meteor-awssum.git",
-  "packages": {
-    "underscore-string": "2.2.0rc.1"
-  }
+  "packages": {}
 }
