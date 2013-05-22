@@ -6,6 +6,7 @@ var Future = Npm.require("fibers/future");
 // supports third-party packages, switch over.
 _.mixin(Npm.require("underscore.string"));
 
+// @export AWSSum
 AWSSum = {
   load: function(moduleName, className) {
 
