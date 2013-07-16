@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "awssum": {
+      "version": "0.12.2",
+      "dependencies": {
+        "fmt": {
+          "version": "0.4.0"
+        },
+        "underscore": {
+          "version": "1.5.1"
+        },
+        "xml2js": {
+          "version": "0.1.14",
+          "dependencies": {
+            "sax": {
+              "version": "0.5.4"
+            }
+          }
+        },
+        "dateformat": {
+          "version": "1.0.6-1.2.3"
+        },
+        "xml": {
+          "version": "0.0.7"
+        },
+        "data2xml": {
+          "version": "0.4.0"
+        },
+        "passgen": {
+          "version": "1.0.1",
+          "dependencies": {
+            "vows": {
+              "version": "0.7.0",
+              "dependencies": {
+                "eyes": {
+                  "version": "0.1.8"
+                },
+                "diff": {
+                  "version": "1.0.5"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "underscore.string": {
+      "version": "2.3.1"
+    }
+  }
+}
