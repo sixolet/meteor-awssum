@@ -10,4 +10,5 @@ Npm.depends({
 Package.on_use(function (api) {
   api.use(['underscore']);
   api.add_files('server.js', 'server');
+  api.export('AWSSum');
 });
